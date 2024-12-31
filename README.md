@@ -1,30 +1,7 @@
 # It-Was-Great-Meeting-You
 A heartfelt message for the most amazing person in my life.
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Love Letter for 2025</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #fbeff1;
-            color: #333;
-            padding: 50px;
-        }
-        h1 {
-            color: #e63946;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
-    </style>
-</head>
-<body>
-    <h1>Babyyyyyy ❤️</h1>
+<h1>Babyyyyyy ❤️</h1>
     <p>Thank you, thank you so much for the gift of you in my life...</p>
     <p>[Honestly, I still can’t imagine where I’d be without you. You’ve made such a huge impact on my year, and on this last day of the year, I just want you to know how much I love and appreciate you for everything you’ve done for me. Life is so much easier with you around, and I need you to know I’ll never take that for granted.
 
