@@ -33,8 +33,7 @@ Knowing there’s someone, somewhere, who feels like home and will always have m
 You are my greatest blessing, my safe haven, and my forever. You’ve filled my life with warmth, joy, and a love I never thought possible.
 
 As we step into a new year, I’m more grateful for you than ever. I promise to keep choosing you, over and over, every single day. My heart will always belong to you, now and forever.
-
- *I sincerely and inexplicably love you so much.]</p>
+I sincerely and inexplicably love you so much.]</p>
     <p>With all my love,<br><strong>Oreoluwa ❤️</strong></p>
 </body>
 </html>
